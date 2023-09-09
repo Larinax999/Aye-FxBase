@@ -14,9 +14,13 @@
 9. Go to `settings`, select `FxServer`, set `OneSync` to `On (with infinity)`
 10. Done. Have fun
 
-# Performance
+# Feature / Performance
 
-CPU msec : 0.02 - 0.1 ms
+- CPU msec : 0.02 - 0.1 ms
+- Queue System **UNTEST USE WITH CAUTION**
+- Weapon Damage Settings
+- Built in Crouched, HandUp 
+- Disable wanted, npc, ambient sounds, mini map
 
 # Showcase
 
