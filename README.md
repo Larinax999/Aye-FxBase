@@ -27,5 +27,4 @@ enjoy :>
 7. when `4) Existing Server Data` SET `./CFXMain/`
 8. when `5) Server CFG File` SET `server.cfg`
 9. Go to `settings`, select `FxServer`, set `OneSync` to `On (with infinity)`
-10. don't forget to create db
-![db.users](https://github.com/Larinax999/Aye-FxBase/assets/49904492/046dbfcc-d9fc-4b28-8fd7-d69cb1bd281f)
+10. don't forget to create db [preview](https://github.com/Larinax999/Aye-FxBase/assets/49904492/046dbfcc-d9fc-4b28-8fd7-d69cb1bd281f)
