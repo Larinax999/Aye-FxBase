@@ -182,7 +182,7 @@ RegisterNetEvent("AyeGM:LOGIN", function(data)
         RemoveMultiplayerWalletCash()
         while true do
             Citizen.Wait(1000)
-            RestorePlayerStamina(PlayerId(), 1.0)
+            RestorePlayerStamina(PlayerId(), 1.0) -- inf Stamina
             local plr = PlayerPedId()
             if not IsEntityDead(plr) and IsPedInAnyVehicle(plr,false) then -- if in car (Vehicle)
                 DisplayRadar(true)
